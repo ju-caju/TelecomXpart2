@@ -46,7 +46,7 @@ Separação dos dados:
 
 Treino e teste com train_test_split(), utilizando 80% para treino e 20% para teste.
 
-##💡 Modelagem e Justificativas
+## 💡 Modelagem e Justificativas
 Foram testados modelos como Regressão Logística e Random Forest.
 
 A escolha final considera performance (Acurácia, Recall, F1-Score) e capacidade de interpretação.
